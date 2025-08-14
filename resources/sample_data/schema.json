@@ -1,0 +1,20 @@
+{
+  "version": "v1",
+  "elements": [
+    {
+      "name": "test1",
+      "description": "Test description",
+      "unit": "mm"
+    },
+    {
+      "name": "test2",
+      "description": "Test description 2",
+      "unit": "kWh"
+    },
+    {
+      "name": "test3",
+      "description": "Test description 3",
+      "unit": "N"
+    }
+  ]
+}

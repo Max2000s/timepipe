@@ -1,0 +1,15 @@
+[mqtt]
+hostname = "localhost"
+port = 1883
+user = "timepipe"
+password = "secret"
+client_id = "timepipe"
+schema_topic = "debug/schema"
+data_topic = "debug/data"
+
+[timescale]
+hostname = "localhost"
+port = 5432
+db_name = "timescale_data"
+user = "user"
+password = "password"
